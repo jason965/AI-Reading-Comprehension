@@ -2,11 +2,11 @@
 
 
 
-This is the code for Reading Comprehension task using stanford SQuAD. Given a passage and a question, the model will try to extract part of passage as answer. (Assume answer can be found in the passage).
+- This is the code for Reading Comprehension task using stanford SQuAD. Given a passage and a question, the model will try to extract part of passage as answer. (Assume answer can be found in the passage).
 
-The main idea of the model is using advanced attention mechanism (Self Attention and bidirectional attention flow)
+- The main idea of the model is using advanced attention mechanism (Self Attention and bidirectional attention flow) in deep learning.
 
-The data is too large that cannot be put here.
+- The data is too large that cannot be put here.
 
 **For details, please take a look at the report of this project**
 
