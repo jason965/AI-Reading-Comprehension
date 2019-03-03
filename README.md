@@ -8,7 +8,7 @@ The main idea of the model is using advanced attention mechanism (Self Attention
 
 The data is too large that cannot be put here.
 
-For details, please take a look at the report of this project
+**For details, please take a look at the report of this project**
 
 ### Model Performance (data v1.1)
 ---
